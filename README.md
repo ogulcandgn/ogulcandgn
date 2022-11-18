@@ -9,9 +9,13 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
+- 🔭 I’m currently working on **React projects**
+
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **ogulcan.dgn@hotmail.com**
+
+- ⚡ Fun fact **I am excited!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcandgn&show_icons=true&locale=en&layout=compact" alt="ogulcandgn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogulcandgn&show_icons=true&locale=en" alt="ogulcandgn" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ogulcandgn&show_icons=true&locale=en" alt="ogulcandgn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcandgn&" alt="ogulcandgn" /></p>
