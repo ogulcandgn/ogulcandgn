@@ -1,5 +1,8 @@
+![masterhead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Oğulcan Doğan</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
+
+<img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ogulcandgn" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogulcandgn&label=Profile%20views&color=0e75b6&style=flat" alt="ogulcandgn" /> </p>
 
