@@ -1,7 +1,9 @@
 ![masterhead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Oğulcan Doğan</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
-<h4 align="center">I have graduated from Pamukkale University Computer Engineering Department with an average of 3.24. I developed myself in the field of Web Development. I am proficient in front-end technologies. I have good command of HTML, CSS, Bootstrap, Tailwind and Firebase technologies. I continue to work on Javascript and React technologies.</h3>
+<h4 align="center">I graduated from Pamukkale University Computer Engineering department with a GPA of 3.24. I improved myself in Web
+Development. I am fluent in HTML, CSS, Javascript, React, Redux, Bootstrap, Tailwind and Firebase technologies. I am
+actively looking for a team where I can improve myself.</h3>
 
 <img width="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ogulcandgn" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogulcandgn&label=Profile%20views&color=0e75b6&style=flat" alt="ogulcandgn" /> </p>
